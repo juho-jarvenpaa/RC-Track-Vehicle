@@ -51,3 +51,4 @@ HOPE Microelectronics
 ![Controller diagram](Controller.drawio.png)
 
 ### Track vehicle
+![Track vehicle diagram](Track-vehicle.drawio.png)
