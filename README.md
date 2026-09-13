@@ -1,6 +1,8 @@
 # RC-Track-Vehicle
 Radio controlled vehicle with tracks
 
+![Track vehicle gif](rc-track-vehicle.gif)
+
 ## Part list Controller:
 - Raspberry Pico H
 - 3 V powersupply
