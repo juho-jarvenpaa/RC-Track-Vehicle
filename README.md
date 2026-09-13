@@ -43,3 +43,11 @@ HOPE Microelectronics
 ## Software
 - Arduino IDE
 - RadioHead softare library
+
+## Circuit Diagrams
+
+### Controller
+
+![Controller diagram](Controller.drawio.png)
+
+### Track vehicle
