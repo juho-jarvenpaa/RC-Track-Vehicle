@@ -1,5 +1,5 @@
-#include <RH_ASK.h>   // Include the RH_ASK library
-#include <SPI.h>      // Not actually used but needed to compile the RH_ASK library
+#include <RH_ASK.h>
+#include <SPI.h>
  
 int VRyLeft = 26;
 int VRyRight = 27; 
